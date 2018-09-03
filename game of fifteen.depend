@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1491312333 source:c:\users\madhur kabra\desktop\madhur\c prog\game of fifteen\main.c
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
